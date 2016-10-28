@@ -12,5 +12,7 @@
     "loud-rejection": "^1.6.0",
     "mocha": "^3.1.2",
     "mocha-generators": "^1.2.0"
-  }
+  },
+  "repository": "jrop/spelunker",
+  "keywords": [ "child_process", "spawn", "promise" ]
 }
