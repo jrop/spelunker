@@ -1,0 +1,16 @@
+{
+  "name": "spelunker",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "coverage": "istanbul cover _mocha test.js",
+    "test": "mocha test.js"
+  },
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "loud-rejection": "^1.6.0",
+    "mocha": "^3.1.2",
+    "mocha-generators": "^1.2.0"
+  }
+}
