@@ -1,5 +1,7 @@
 # Spelunker
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jrop/spelunker.svg)](https://greenkeeper.io/)
+
 require('child_process').spawn on steroids
 
 ## Installation
